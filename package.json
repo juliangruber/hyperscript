@@ -9,10 +9,10 @@
   "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (http://dominictarr.com)",
   "license": "MIT",
   "devDependencies": {
-    "html-element": "~1.1.0",
-    "tape": "~0.2.2"
+    "html-element": "~2.1.1",
+    "tape": "~4.6.3"
   },
   "dependencies": {
-    "class-list": "0.0.1"
+    "class-list": "0.1.1"
   }
 }
